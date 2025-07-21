@@ -1,0 +1,8 @@
+numpy
+python-can
+uptime
+PyQT5
+mypy
+black
+isort
+cantools
